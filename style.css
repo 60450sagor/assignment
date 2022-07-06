@@ -5,6 +5,8 @@ body {
 
 p {
   color: gray;
+  text-align: justify;
+  text-align: center;
 }
 
 #top-pera {
@@ -20,7 +22,6 @@ p {
   padding: 15px 30px;
   background-color: rgb(255, 187, 0);
   border-radius: 10px;
-  color: aliceblue;
 }
 
 .flexible-container {
@@ -58,6 +59,7 @@ p {
   margin-left: 250px;
   margin-right: 250px;
   text-align: center;
+  text-align: justify;
 }
 
 .float-container-count {
