@@ -139,3 +139,62 @@ hr {
   width: 100%;
   border-radius: 5px;
 }
+.bottom-section {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.Subscribe {
+  box-shadow: 10px 10px 40px;
+  margin: auto;
+  margin-top: 50px;
+  height: 150px;
+  width: 50%;
+  padding: 10px;
+  background-color: rgba(192, 107, 160, 0.425);
+}
+
+.input-subscribe {
+  margin-top: 60px;
+}
+#inner {
+  height: 30px;
+  width: 40%;
+  margin-right: -7px;
+  background-color: rgb(219, 236, 219);
+  font-weight: 700;
+  font-size: 15px;
+  border: none;
+}
+
+#inner-subscribe {
+  height: 36px;
+  width: 20%;
+  background-color: darkorange;
+  font-weight: 700;
+  font-size: 15px;
+  border: none;
+  border-radius: 5%;
+  color: white;
+}
+
+footer {
+  height: 180px;
+  width: auto;
+  background-color: #000033;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.footer-h1 {
+  font-size: 40px;
+  color: white;
+  font-weight: 700;
+  padding-top: 50px;
+  font-family: "Brush Script MT", cursive;
+}
+
+.footer-h4 {
+  color: white;
+  font-weight: 500;
+}
