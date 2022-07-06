@@ -1,0 +1,141 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+p {
+  color: gray;
+}
+
+#top-pera {
+  color: white;
+  margin-bottom: 60px;
+}
+
+.link-button {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 40px;
+  padding: 15px 30px;
+  background-color: rgb(255, 187, 0);
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.flexible-container {
+  display: flex;
+  padding-bottom: 100px;
+}
+
+.hero-image {
+  background-image: url(images/donation13.jpg);
+  height: 700px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.section-two {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.h1-middle {
+  font-size: 45px;
+  font-weight: 800;
+}
+
+.p-middle {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+}
+
+.float-container-count {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.view-count {
+  padding: 40px 40px;
+  background-color: rgba(220, 220, 220, 0.164);
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+#view-count-box {
+  border: 2px rgb(235, 46, 21) solid;
+  background-color: rgba(170, 146, 145, 0.219);
+  color: tomato;
+}
+
+hr {
+  margin-bottom: 40px;
+  width: 60%;
+}
+.section-three {
+  text-align: left;
+  margin-top: 130px;
+}
+
+#section-three-h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.section-three-content {
+  margin-left: 100px;
+  margin-right: 100px;
+  clear: both;
+}
+
+.food-aria {
+  background-color: palegreen;
+  padding: 35px 15px;
+  border-radius: 20px;
+  margin: 20px;
+  float: left;
+  width: 33.33%;
+  height: 350px;
+}
+
+.shelter-aria {
+  background-color: aqua;
+  padding: 35px 15px;
+  border-radius: 20px;
+  margin: 20px;
+  float: left;
+  width: 33.33%;
+  height: 350px;
+}
+
+.frame-aria {
+  background-color: chartreuse;
+  padding: 35px 15px;
+  border-radius: 20px;
+  margin: 20px;
+  float: left;
+  width: 33.33%;
+  height: 350px;
+}
+.flexiable-container {
+  display: flex;
+}
+
+.first-class {
+  width: 50%;
+  padding: 5%;
+}
+.first-class img {
+  width: 100%;
+  border-radius: 5px;
+}
