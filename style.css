@@ -103,6 +103,9 @@ hr {
   margin-right: 100px;
   clear: both;
 }
+.section-three-content p {
+  text-align: justify;
+}
 
 .food-aria {
   background-color: palegreen;
@@ -136,14 +139,16 @@ hr {
 .flexiable-container {
   display: flex;
 }
-
+.flexiable-container p {
+  text-align: justify;
+}
 .first-class {
   width: 50%;
   padding: 5%;
 }
 
 .first-class img {
-  width: 100%;
+  width: 80%;
   border-radius: 5%;
 }
 .bottom-section {
